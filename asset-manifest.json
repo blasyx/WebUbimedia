@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webUbimedia/static/css/main.cf7cbb5d.chunk.css",
+    "main.js": "/webUbimedia/static/js/main.0385bc3b.chunk.js",
+    "main.js.map": "/webUbimedia/static/js/main.0385bc3b.chunk.js.map",
+    "runtime-main.js": "/webUbimedia/static/js/runtime-main.9256d9a7.js",
+    "runtime-main.js.map": "/webUbimedia/static/js/runtime-main.9256d9a7.js.map",
+    "static/js/2.e803ddd6.chunk.js": "/webUbimedia/static/js/2.e803ddd6.chunk.js",
+    "static/js/2.e803ddd6.chunk.js.map": "/webUbimedia/static/js/2.e803ddd6.chunk.js.map",
+    "index.html": "/webUbimedia/index.html",
+    "static/css/main.cf7cbb5d.chunk.css.map": "/webUbimedia/static/css/main.cf7cbb5d.chunk.css.map",
+    "static/js/2.e803ddd6.chunk.js.LICENSE.txt": "/webUbimedia/static/js/2.e803ddd6.chunk.js.LICENSE.txt",
+    "static/media/que.css": "/webUbimedia/static/media/Dance.f853bd2a.ttf",
+    "static/media/llamada.css": "/webUbimedia/static/media/textura2.80a174af.png",
+    "static/media/header.css": "/webUbimedia/static/media/textura1.80a174af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9256d9a7.js",
+    "static/js/2.e803ddd6.chunk.js",
+    "static/css/main.cf7cbb5d.chunk.css",
+    "static/js/main.0385bc3b.chunk.js"
+  ]
+}
